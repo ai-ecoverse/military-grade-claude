@@ -10,7 +10,7 @@ set -e
 
 SETTINGS_DIR="$HOME/.claude"
 SETTINGS_FILE="$SETTINGS_DIR/settings.local.json"
-VERBS_URL="https://raw.githubusercontent.com/trieloff/military-grade-claude/main/spinnerverbs.txt"
+VERBS_URL="https://raw.githubusercontent.com/ai-ecoverse/military-grade-claude/main/spinnerverbs.txt"
 
 echo ""
 echo "======================================================================"

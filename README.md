@@ -23,7 +23,7 @@ Right now, when Claude is working, you see messages like:
 One command. That's all it takes to achieve FULL SPECTRUM DOMINANCE:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/trieloff/military-grade-claude/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/ai-ecoverse/military-grade-claude/main/install.sh | sh
 ```
 
 After installation, your Claude will display PROPER status messages:
@@ -87,7 +87,7 @@ The term "military-grade" is meaningless marketing nonsense, just like this repo
 
 ## SEE ALSO
 
-- [AI Ecoverse](https://github.com/trieloff/ai-ecoverse) - A comprehensive ecosystem of tools for the AI-assisted development experience
+- [AI Ecoverse](https://github.com/ai-ecoverse/.github) - A comprehensive ecosystem of tools for the AI-assisted development experience
 - [@tszzl's tweet](https://x.com/tszzl) that inspired this
 
 ## LICENSE
