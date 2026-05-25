@@ -1,6 +1,6 @@
 # Military-Grade Claude  Honorably Discharged
 
-[![87% Vibe_Coded](https://img.shields.io/badge/87%25-Vibe_Coded-ff69b4?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/ai-ecoverse/vibe-coded-badge-action)
+[![91% Vibe_Coded](https://img.shields.io/badge/91%25-Vibe_Coded-ff69b4?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/ai-ecoverse/vibe-coded-badge-action)
 
 > **This project has been archived.**
 
